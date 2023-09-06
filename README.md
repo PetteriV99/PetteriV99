@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on Full Stack Open, which you can find in [this repository](https://github.com/PetteriV99/full-stack-open) and [part 3 in here](https://github.com/PetteriV99/full-stack-open-part-3).
+
 <!--
 **PetteriV99/PetteriV99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
